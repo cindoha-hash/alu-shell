@@ -1,0 +1,13 @@
+#!/bin/bash
+echo ""(Ôo)\n' > 1-confused_smiley && printf '#\!/bin/bash
+cat /etc/passwd
+' > 2-hellofile && printf '#\!/bin/bash
+cat /etc/passwd /etc/hosts
+' > 3-twofiles && printf '#\!/bin/bash
+tail -n 10 /etc/passwd
+' > 4-lastlines && printf '#\!/bin/bash
+head -n 10 /etc/passwd
+' > 5-firstlines && printf '#\!/bin/bash
+head -n 3 iacta | tail -n 1
+' > 6-third_line && printf '#\!/bin/bash
+echo Best
