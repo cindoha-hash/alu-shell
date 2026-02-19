@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+echo "ibase=water;obase=bestchol;$WATER+$STIR" | tr 'water' '01234' | tr 'stir.' '01234' | bc | tr '0123456789' 'bestchol'
+

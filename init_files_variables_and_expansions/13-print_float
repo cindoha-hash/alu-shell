@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+printf "%.2f\n" "$NUM"
+
